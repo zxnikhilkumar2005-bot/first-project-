@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'buttermilk';
+    src: url(/Buttermilk.woff);
+}
 *{
     margin: 0;
     padding: 0;
